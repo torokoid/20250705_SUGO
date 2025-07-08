@@ -279,7 +279,7 @@ p.note { display: none; }
 
 <!-- フッタ -->
 <footer>
-<p>Copyright 2025/07/07 alis @Tochigi</p>
+<p>Copyright 2025/07/08 alis @Tochigi</p>
 </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
