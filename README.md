@@ -130,7 +130,7 @@ p.note { display: none; }
 <!--ここから下が、本体部分-->
 
     
-<h2><span class="yellow">5日予選映像</span></h2>
+<h2><span class="yellow">5日午前中のスプリントレース、ピットウォークイベント、午後の４時間耐久予選映像</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yDzTMt4sHI0?si=bfv-hL2sWPKS4jdF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
     
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YX3btu0aTvE?si=99Aq3m2EHCONswuu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
