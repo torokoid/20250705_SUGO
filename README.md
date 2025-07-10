@@ -190,7 +190,7 @@ p.note { display: none; }
 
 <br><br><br><br>
 <h2><span class="yellow">6日本戦の動画リンクはこちら</span>
-<a href="https://torokoid.github.io/20250706_SUGO/" target="_blank">リンク</a></h2>
+<a href="https://torokoid.github.io/20250706_SUGO/" target="_blank"><br>リンク</a></h2>
 
 <!--    
 <h2><span class="yellow">6日午前中のスプリントレース、ピットウォークイベント、午後の４時間耐久本選映像</span></h2>
