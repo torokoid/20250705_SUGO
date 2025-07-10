@@ -189,8 +189,10 @@ p.note { display: none; }
     
 
 <br><br><br><br>
-    
-    
+<h2><span class="yellow">6日本戦の動画リンクはこちら</span>
+<a href="https://torokoid.github.io/20250706_SUGO/" target="_blank">リンク</a></h2>
+
+<!--    
 <h2><span class="yellow">6日午前中のスプリントレース、ピットウォークイベント、午後の４時間耐久本選映像</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rqVg9r2g4vY?si=_9N_QA8xioKRK37m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
     
@@ -273,7 +275,7 @@ p.note { display: none; }
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YKnVqibhi30?si=WCj5wJk6qBrNc2vI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
     
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P6iF8DdYbKQ?si=uw9ig4KVb4S2ni1a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
-
+-->
 
 
 <br><br><br><br><br><br><br><br><br>
